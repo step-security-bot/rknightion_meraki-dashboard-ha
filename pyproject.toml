@@ -22,7 +22,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "homeassistant-stubs==2025.6.1",
+    "homeassistant-stubs==2025.7.3",
     "pytest-homeassistant-custom-component==0.13.252",
     "pytest<9.0.0,>=8.0.0",
     "pytest-asyncio<1.0.0,>=0.26.0",
